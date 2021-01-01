@@ -1,14 +1,24 @@
 rank,date,company,value,industry,country,gang_rank,max_tech,tech_n,max_others,others_n,yearly_max_total
-6,8-20-2020,Alibaba,5.4264E+11,Technology,China,6,2.023E+12,7,4.9257E+11,3,2.54073E+12
-7,8-20-2020,Tencent,4.9642E+11,Technology,China,7,2.023E+12,7,4.9257E+11,3,2.54073E+12
-5,8-20-2020,Facebook,7.6636E+11,Technology,United States,5,2.023E+12,7,4.9257E+11,3,2.54073E+12
-4,8-20-2020,Alphabet,1.0737E+12,Technology,United States,4,2.023E+12,7,4.9257E+11,3,2.54073E+12
-2,8-20-2020,Amazon,1.65259E+12,Technology,United States,2,2.023E+12,7,4.9257E+11,3,2.54073E+12
-3,8-20-2020,Microsoft,1.624E+12,Technology,United States,3,2.023E+12,7,4.9257E+11,3,2.54073E+12
-1,8-20-2020,Apple,2.023E+12,Technology,United States,1,2.023E+12,7,4.9257E+11,3,2.54073E+12
-10,8-20-2020,Johnson & Johnson,3.9959E+11,Healthcare,United States,3,2.023E+12,7,4.9257E+11,3,2.54073E+12
-9,8-20-2020,Visa,4.3471E+11,Financial,United States,2,2.023E+12,7,4.9257E+11,3,2.54073E+12
-8,8-20-2020,Berkshire Hathaway,4.9257E+11,Financial,United States,1,2.023E+12,7,4.9257E+11,3,2.54073E+12
+1,12-31-2020,Apple,2.256E+12,Technology,United States,1,2.256E+12,9,5.4311E+11,1,2.79911E+12
+2,12-31-2020,Microsoft,1.682E+12,Technology,United States,2,2.256E+12,9,5.4311E+11,1,2.79911E+12
+3,12-31-2020,Amazon,1.634E+12,Technology,United States,3,2.256E+12,9,5.4311E+11,1,2.79911E+12
+4,12-31-2020,Alphabet,1.184E+12,Technology,United States,4,2.256E+12,9,5.4311E+11,1,2.79911E+12
+5,12-31-2020,Facebook,7.7803E+11,Technology,United States,5,2.256E+12,5,5.4311E+11,1,2.79911E+12
+6,12-31-2020,Tencent,6.9324E+11,Technology,China,6,2.256E+12,9,5.4311E+11,1,2.79911E+12
+7,12-31-2020,Tesla,6.6890E+11,Technology,United States,7,2.256E+12,9,5.4311E+11,1,2.79911E+12
+8,12-31-2020,Alibaba,6.4369E+11,Technology,United States,8,2.256E+12,9,5.4311E+11,1,2.79911E+12
+9,12-31-2020,Berkshire Hathaway,5.4311E+11,Financial,United States,1,2.256E+12,9,5.4311E+11,1,2.79911E+12
+10,12-31-2020,TSMC,4.8444E+11,Technology,Taiwan,9,2.256E+12,9,5.4311E+11,1,2.79911E+12
+1,9-30-2020,Apple,1.981E+12,Technology,United States,1,1.981E+12,8,5.0947E+11,2,2.4904E+12
+2,9-30-2020,Microsoft,1.592E+12,Technology,United States,2,1.981E+12,8,5.0947E+11,2,2.4904E+12
+3,9-30-2020,Amazon,1.577E+12,Technology,United States,3,1.981E+12,8,5.0947E+11,2,2.4904E+12
+4,9-30-2020,Alphabet,9.99957E+11,Technology,United States,4,1.981E+12,8,5.0947E+11,2,2.4904E+12
+5,9-30-2020,Alibaba,7.954E+11,Technology,China,5,1.981E+12,5,5.0947E+11,2,2.4904E+12
+6,9-30-2020,Facebook,7.461E+11,Technology,United States,6,1.981E+12,8,5.0947E+11,2,2.4904E+12
+7,9-30-2020,Tencent,6.4679E+11,Technology,China,7,1.981E+12,8,5.0947E+11,2,2.4904E+12
+8,9-30-2020,Berkshire Hathaway,5.0947E+11,Financial,United States,1,1.981E+12,8,5.0947E+11,2,2.4904E+12
+9,9-30-2020,Visa,4.2551E+11,Financial,United States,2,1.981E+12,8,5.0947E+11,2,2.4904E+12
+10,9-30-2020,TSMC,4.2044E+11,Technology,Taiwan,8,1.981E+12,8,5.0947E+11,2,2.4904E+12
 7,6-30-2020,Alibaba,5.7974E+11,Technology,China,7,1.576E+12,7,4.3257E+11,3,2.04874E+12
 6,6-30-2020,Tencent,6.2092E+11,Technology,China,6,1.576E+12,7,4.3257E+11,3,2.04874E+12
 5,6-30-2020,Facebook,6.7569E+11,Technology,United States,5,1.576E+12,7,4.3257E+11,3,2.04874E+12
