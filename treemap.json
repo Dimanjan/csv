@@ -6,8 +6,7 @@
             { "name": "mister_b", "value": 19 },
             { "name": "mister_c", "value": 18 },
             { "name": "mister_d", "value": 19 }
-        ],
-        "colname": "level2"
+        ]
     }, {
         "name": "boss2",
         "children": [
@@ -15,8 +14,7 @@
             { "name": "mister_f", "value": 11 },
             { "name": "mister_g", "value": 15 },
             { "name": "mister_h", "value": 16 }
-        ],
-        "colname": "level2"
+        ]
     }, {
         "name": "boss3",
         "children": [
@@ -26,8 +24,7 @@
             { "name": "mister_l", "value": 25 },
             { "name": "mister_m", "value": 16 },
             { "name": "mister_n", "value": 28 }
-        ],
-        "colname": "level2"
+        ]
     }],
     "name": "CEO"
 }
