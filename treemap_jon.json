@@ -331,4 +331,5 @@
   {'children': [{'change': -0.15, 'name': 'NTC', 'value': 196950000000},
     {'change': -0.15, 'name': 'NFD', 'value': 16875639},
     {'change': -0.17, 'name': 'NRIC', 'value': 133742000000}],
-   'name': 'Others'}]}
+   'name': 'Others'}],
+ 'name': 'Nepse'}
